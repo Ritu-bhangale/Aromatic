@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl "href="catlog.xsl" ?>
+ <brand>
+  <s>
+   <name>Gucci</name>
+   <price>$1500</price>
+   <quantity>100ml</quantity>
+   <description>Gucci Signature Fragrances</description>
+  </s>
+  <s>
+   <name> Versace </name>
+    <price> $1500</price>
+    <quantity>100ml</quantity>
+   <description>Versace Fragrances of self-expression</description>
+  </s>
+  <s> 
+   <name> Ghost Sweetheat</name>
+    <price> $2000</price>
+    <quantity>100ml</quantity>
+   <description>Fragrances with Sweetheat</description>
+  </s>
+  <s> 
+   <name>Rimmel</name>
+    <price> $1800</price>
+    <quantity></quantity>
+   <description>Fragrances of roses with Rimmel</description>
+  </s>
+  <s> 
+   <name> Alian</name>
+   <price> $1400</price>
+   <quantity></quantity>
+   <description>Alian Signature Fragrances</description>
+  </s>
+ </brand>
+ 
