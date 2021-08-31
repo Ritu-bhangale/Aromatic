@@ -17,7 +17,6 @@ for( var but of likeBtn){
     but.addEventListener('click',(e)=>{
         console.log("clciked");
         favCount++;
-
         console.log(favCount);
         var parent = e.target.parentNode;
         var clone = parent.cloneNode(true);
@@ -28,7 +27,6 @@ for( var one of buyNow){
     one.addEventListener('click',(e)=>{
         console.log("clciked");
         cartCount++;
-
         console.log(cartCount);
         var parent = e.target.parentNode;
         var clone = parent.cloneNode(true);

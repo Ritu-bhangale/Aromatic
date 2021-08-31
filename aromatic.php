@@ -64,7 +64,8 @@ session_start();
                 <h1 class="hvr-underline-from-left">Choose Your Style</h1>
                 <div class="about-img ">
                     <div class="about-left">
-                        <img src="for her.png">
+                        <a href="catlog.xml">
+                        <img src="for her.png"></a>
                     </div>
                     <div class="about-right">
                         <img src="for him.png" class="him">

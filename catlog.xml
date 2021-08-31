@@ -22,13 +22,13 @@
   <s> 
    <name>Rimmel</name>
     <price> $1800</price>
-    <quantity></quantity>
+    <quantity>150ml</quantity>
    <description>Fragrances of roses with Rimmel</description>
   </s>
   <s> 
    <name> Alian</name>
    <price> $1400</price>
-   <quantity></quantity>
+   <quantity>150ml</quantity>
    <description>Alian Signature Fragrances</description>
   </s>
  </brand>
